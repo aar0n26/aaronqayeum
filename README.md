@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/aaronqayeum/LABURL)
+- [Active Directory Home Lab](https://github.com/aar0n26/ActiveDirectoryLab/tree/main)
 - [Hello World!](https://github.com/aaronqayeum/LABURL)
 
 <h2> Certifications</h2>
